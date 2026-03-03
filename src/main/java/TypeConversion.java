@@ -1,5 +1,5 @@
 /**
- * Type Conversion & Casting in Java (summary of Telusko video #8)
+ * Type Conversion & Casting in Java
  * 
  * Key concepts demonstrated:
  * 1. Implicit (automatic/widening) casting   → smaller → larger type (no data loss)
